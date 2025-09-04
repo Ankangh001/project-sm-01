@@ -1,0 +1,73 @@
+CRITICAL - 2025-09-03 14:27:46 --> Class "Locale" not found
+in SYSTEMPATH\CodeIgniter.php on line 186.
+ 1 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2025-09-03 14:32:22 --> Class "Locale" not found
+in SYSTEMPATH\CodeIgniter.php on line 186.
+ 1 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2025-09-03 14:39:44 --> Class "Locale" not found
+in SYSTEMPATH\CodeIgniter.php on line 186.
+ 1 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2025-09-03 16:51:49 --> Class "Locale" not found
+in SYSTEMPATH\CodeIgniter.php on line 186.
+ 1 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2025-09-03 16:54:13 --> Class "Locale" not found
+in SYSTEMPATH\CodeIgniter.php on line 186.
+ 1 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2025-09-03 16:56:08 --> Class "Locale" not found
+in SYSTEMPATH\CodeIgniter.php on line 186.
+ 1 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2025-09-03 20:37:14 --> Creation of dynamic property Config\Cache::$file is deprecated
+in SYSTEMPATH\Cache\Handlers\FileHandler.php on line 51.
+ 1 SYSTEMPATH\Cache\Handlers\FileHandler.php(51): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property Config\\Cache::$file is deprecated', 'SYSTEMPATH\\Cache\\Handlers\\FileHandler.php', 51)
+ 2 SYSTEMPATH\Cache\CacheFactory.php(60): CodeIgniter\Cache\Handlers\FileHandler->__construct(Object(Config\Cache))
+ 3 SYSTEMPATH\Config\Services.php(113): CodeIgniter\Cache\CacheFactory::getHandler(Object(Config\Cache))
+ 4 SYSTEMPATH\Config\BaseService.php(194): CodeIgniter\Config\Services::cache(Object(Config\Cache), false)
+ 5 SYSTEMPATH\Config\Services.php(108): CodeIgniter\Config\BaseService::getSharedInstance('cache', null)
+ 6 SYSTEMPATH\Common.php(69): CodeIgniter\Config\Services::cache()
+ 7 SYSTEMPATH\CodeIgniter.php(683): cache()
+ 8 SYSTEMPATH\CodeIgniter.php(333): CodeIgniter\CodeIgniter->displayCache(Object(Config\Cache))
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-09-03 20:37:19 --> Creation of dynamic property Config\Cache::$file is deprecated
+in SYSTEMPATH\Cache\Handlers\FileHandler.php on line 51.
+ 1 SYSTEMPATH\Cache\Handlers\FileHandler.php(51): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property Config\\Cache::$file is deprecated', 'SYSTEMPATH\\Cache\\Handlers\\FileHandler.php', 51)
+ 2 SYSTEMPATH\Cache\CacheFactory.php(60): CodeIgniter\Cache\Handlers\FileHandler->__construct(Object(Config\Cache))
+ 3 SYSTEMPATH\Config\Services.php(113): CodeIgniter\Cache\CacheFactory::getHandler(Object(Config\Cache))
+ 4 SYSTEMPATH\Config\BaseService.php(194): CodeIgniter\Config\Services::cache(Object(Config\Cache), false)
+ 5 SYSTEMPATH\Config\Services.php(108): CodeIgniter\Config\BaseService::getSharedInstance('cache', null)
+ 6 SYSTEMPATH\Common.php(69): CodeIgniter\Config\Services::cache()
+ 7 SYSTEMPATH\CodeIgniter.php(683): cache()
+ 8 SYSTEMPATH\CodeIgniter.php(333): CodeIgniter\CodeIgniter->displayCache(Object(Config\Cache))
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-09-03 20:37:20 --> Creation of dynamic property Config\Cache::$file is deprecated
+in SYSTEMPATH\Cache\Handlers\FileHandler.php on line 51.
+ 1 SYSTEMPATH\Cache\Handlers\FileHandler.php(51): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property Config\\Cache::$file is deprecated', 'SYSTEMPATH\\Cache\\Handlers\\FileHandler.php', 51)
+ 2 SYSTEMPATH\Cache\CacheFactory.php(60): CodeIgniter\Cache\Handlers\FileHandler->__construct(Object(Config\Cache))
+ 3 SYSTEMPATH\Config\Services.php(113): CodeIgniter\Cache\CacheFactory::getHandler(Object(Config\Cache))
+ 4 SYSTEMPATH\Config\BaseService.php(194): CodeIgniter\Config\Services::cache(Object(Config\Cache), false)
+ 5 SYSTEMPATH\Config\Services.php(108): CodeIgniter\Config\BaseService::getSharedInstance('cache', null)
+ 6 SYSTEMPATH\Common.php(69): CodeIgniter\Config\Services::cache()
+ 7 SYSTEMPATH\CodeIgniter.php(683): cache()
+ 8 SYSTEMPATH\CodeIgniter.php(333): CodeIgniter\CodeIgniter->displayCache(Object(Config\Cache))
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-09-03 23:07:27 --> Creation of dynamic property Config\Cache::$file is deprecated
+in SYSTEMPATH\Cache\Handlers\FileHandler.php on line 51.
+ 1 SYSTEMPATH\Cache\Handlers\FileHandler.php(51): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property Config\\Cache::$file is deprecated', 'SYSTEMPATH\\Cache\\Handlers\\FileHandler.php', 51)
+ 2 SYSTEMPATH\Cache\CacheFactory.php(60): CodeIgniter\Cache\Handlers\FileHandler->__construct(Object(Config\Cache))
+ 3 SYSTEMPATH\Config\Services.php(113): CodeIgniter\Cache\CacheFactory::getHandler(Object(Config\Cache))
+ 4 SYSTEMPATH\Config\BaseService.php(194): CodeIgniter\Config\Services::cache(Object(Config\Cache), false)
+ 5 SYSTEMPATH\Config\Services.php(108): CodeIgniter\Config\BaseService::getSharedInstance('cache', null)
+ 6 SYSTEMPATH\Common.php(69): CodeIgniter\Config\Services::cache()
+ 7 SYSTEMPATH\CodeIgniter.php(683): cache()
+ 8 SYSTEMPATH\CodeIgniter.php(333): CodeIgniter\CodeIgniter->displayCache(Object(Config\Cache))
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-09-03 23:11:18 --> Creation of dynamic property Config\Cache::$file is deprecated
+in SYSTEMPATH\Cache\Handlers\FileHandler.php on line 51.
+ 1 SYSTEMPATH\Cache\Handlers\FileHandler.php(51): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property Config\\Cache::$file is deprecated', 'SYSTEMPATH\\Cache\\Handlers\\FileHandler.php', 51)
+ 2 SYSTEMPATH\Cache\CacheFactory.php(60): CodeIgniter\Cache\Handlers\FileHandler->__construct(Object(Config\Cache))
+ 3 SYSTEMPATH\Config\Services.php(113): CodeIgniter\Cache\CacheFactory::getHandler(Object(Config\Cache))
+ 4 SYSTEMPATH\Config\BaseService.php(194): CodeIgniter\Config\Services::cache(Object(Config\Cache), false)
+ 5 SYSTEMPATH\Config\Services.php(108): CodeIgniter\Config\BaseService::getSharedInstance('cache', null)
+ 6 SYSTEMPATH\Common.php(69): CodeIgniter\Config\Services::cache()
+ 7 SYSTEMPATH\CodeIgniter.php(683): cache()
+ 8 SYSTEMPATH\CodeIgniter.php(333): CodeIgniter\CodeIgniter->displayCache(Object(Config\Cache))
+ 9 FCPATH\index.php(69): CodeIgniter\CodeIgniter->run()

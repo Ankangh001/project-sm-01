@@ -1,0 +1,15 @@
+{
+    "name": "ankan/speoject",
+    "autoload": {
+        "psr-4": {
+            "Ankan\\Speoject\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ankangh001",
+            "email": "ankanghosh010@gmail.com"
+        }
+    ],
+    "require": {}
+}
